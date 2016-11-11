@@ -1,0 +1,17 @@
+project.ext {
+
+  textInventory="/vagrant/il24-all/editions/textinventory.xml"
+  textConfig="/vagrant/il24-all/editions/textconfig.xml"
+
+  textArchive="/vagrant/il24-all/editions"
+  invSchema="/vagrant/il24-all/editions/schemas/TextInventory.rng"
+
+    // Lists of index files to use in verification:
+    folioToImage = "/vagrant/il24-all/indices/venA-folioToImage.csv"
+
+    textToImage = "/vagrant/il24-all/indices/venA-textToImage-Iliad.csv"
+    textToFolio = "/vagrant/il24-all/hc-il17/indices/venA-textToFolio-Iliad.csv"
+
+    scholiaInventories = "/vagrant/il24-all/collections/venA-exterior.csv,/vagrant/il24-all/collections/venA-intermarginal.csv,/vagrant/il24-all/collections/venA-interior.csv,/vagrant/il24-all/collections/venA-mainScholia.csv,/vagrant/il24-all/collections/venA-interlinear.csv"
+
+}
