@@ -23,7 +23,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </fileDesc>
     </teiHeader>
     <text>
-        <group n="24">
+        <group n="21">
             <text n="msA">
                 <body>
                     <div n="1" type="scholion">
@@ -31,45 +31,104 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>πόρον</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:20.1</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:20.1-20.2</p>
                         </div>
                         <div type="comment">
                             <p>ἤτοι τὸν ποταμὸν περιφραστικῶς, ἠ τὸ διαβατὸν αὐτοῦ μερος καθ ὸ
                                 διαπορεύονται, αὐτόν· δια τί δὲ πάντων τῶν ποταμῶν ἐξωκεανοῦ ῥεόντων
-                                //ποταμων// μόνον τον ξανθὸν ὁ ποιητ//ποιητης φησὶν ὃν ἀθανατος
-                                τέκετο Ζεὺς //Ζεύς· πῶς οὖν φησὶ καὶ ὠκεανοῦ καὶ Διὸς παῖς ῥητεόν·
-                                ὅτι εἰκότως ἂν καὶ Διὸς καλοῖτο παῖς εἴ γε οἱ ὄμβροι μὲν ἐκ Διὸς
-                                ὄμβρῳ δὲ ουτ//οὕτως αὔξεται· φέρεται δὲ καὶ ἄλλη τίς ἱστορία· ὅτι
-                                Ἡρακλῆς ποτὲ δίψει κατασχεθεὶς ηὔξατο τῳ πατριδ// ἐπιδεῖξαι αὐτῳ
-                                νάμα ὁ δε μὴ θέλων αὐτὸν τρύχεσθαι ῥίψας κεραυνὸν ἀνεδωκε μικρὰν
-                                λαβίδα ἢν θεασαμενος Ἡρακλῆς καὶ σκάψας εἰς τὸ
-                                πλουσίαιτερον//πλουσιαίτερον μετεισφέρεσθαι μετωνόμασε Σκάμανδρον
-                                οιονεὶ Κάμανδρον γενόμενον καμάτου ἑαυτοῦ παραίτιον· ὅθεν εἰκοτως ὁ
-                                ποιητ//ποιητὴς τὴν ἐκείνου γένεσιν προσῆψε τῷ Διῒ//Διΐ· Ξανθ//Ξάνθος
-                                δὲ προσηγορεύθη ἀφ οῦ περι τοῦ κάλλους ἐκρίνοντο Ἥρα Ἀθηνᾶ
-                                Ἀφροδιτ//Ἀφροδίτη ὅτι ἐν αυτῷ λουσαμεναι ξανθὰς ἔχων τὰς κωμας </p>
+                                    <del>ποταμων</del> μόνον τον <persName
+                                    n="urn:cite:hmt:pers.pers111">Ξανθὸν</persName> ὁ <choice>
+                                    <abbr>ποιητ</abbr>
+                                    <expan>ποιητης</expan>
+                                </choice> φησὶν <q>ὃν ἀθανατος τέκετο <choice>
+                                        <sic>Ζεὺς</sic>
+                                        <corr>Ζεύς</corr>
+                                    </choice>·</q> πῶς οὖν φησὶ καὶ <persName
+                                    n="urn:cite:hmt:pers.pers123">Ὠκεανοῦ</persName> καὶ <persName
+                                    n="urn:cite:hmt:pers.pers8">Διὸς</persName> παῖς ῥητεόν· ὅτι
+                                εἰκότως ἂν καὶ <persName n="urn:cite:hmt:pers.pers8">Διὸς</persName>
+                                καλοῖτο παῖς εἴ γε οἱ ὄμβροι μὲν ἐκ <persName
+                                    n="urn:cite:hmt:pers.pers8">Διὸς</persName> ὄμβρῳ δὲ <choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτως</expan>
+                                </choice> αὔξεται· φέρεται δὲ καὶ ἄλλη τίς ἱστορία· ὅτι <persName
+                                    n="urn:cite:hmt:pers.pers71">Ἡρακλῆς</persName> ποτὲ δίψει
+                                κατασχεθεὶς ηὔξατο τῳ <choice>
+                                    <abbr>πατριδ</abbr>
+                                    <expan>πατριδι</expan>
+                                </choice> ἐπιδεῖξαι αὐτῳ νάμα ὁ δε μὴ θέλων αὐτὸν τρύχεσθαι ῥίψας
+                                κεραυνὸν ἀνεδωκε μικρὰν λαβίδα ἢν θεασαμενος <persName
+                                    n="urn:cite:hmt:pers.71">Ἡρακλῆς</persName> καὶ σκάψας εἰς τὸ <choice>
+                                    <sic>πλουσίαιτερον</sic>
+                                    <corr>πλουσιαίτερον</corr>
+                                </choice> μετεισφέρεσθαι μετωνόμασε <persName
+                                    n="urn:cite:hmt:pers.pers111">Σκάμανδρον</persName> οιονεὶ
+                                Κάμανδρον γενόμενον καμάτου ἑαυτοῦ παραίτιον· ὅθεν εἰκοτως ὁ
+                                ποιητ//ποιητὴς τὴν ἐκείνου γένεσιν προσῆψε τῷ <persName
+                                    n="urn:cite:hmt:pers.pers8"><choice>
+                                        <sic>Διῒ</sic>
+                                        <corr>Διΐ</corr>
+                                    </choice></persName>· <placeName n="urn:cite:hmt:place.place93"><choice>
+                                        <abbr>Ξανθ</abbr>
+                                        <expan>Ξάνθος</expan>
+                                    </choice></placeName> δὲ προσηγορεύθη ἀφ οῦ περι τοῦ κάλλους
+                                ἐκρίνοντο <persName n="urn:cite:hmt:pers.pers116">Ἥρα</persName>
+                                <persName n="urn:cite:hmt:pers.pers67">Ἀθηνᾶ</persName>
+                                <persName n="urn:cite:hmt:pers.pers194"><choice>
+                                        <abbr>Ἀφροδιτ</abbr>
+                                        <expan>Ἀφροδίτη</expan>
+                                    </choice></persName> ὅτι ἐν αυτῷ λουσαμεναι ξανθὰς ἔχων τὰς
+                                κωμας ⁑</p>
                         </div>
                     </div>
                     <div n="2" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>πόρον: </p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:20.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:20.1</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>τὸν πορευτὸν αὐτοῦ τόπον <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.592</ref>
+                                    <q>καὶ <placeName n="urn:cite:hmt:place.place222"
+                                            >Θρύον</placeName>
+                                        <placeName n="urn:cite:hmt:place.place176"><choice>
+                                                <sic>Ἀλφειοί</sic>
+                                                <corr>Ἀλφεῖοι</corr>
+                                            </choice></placeName> πόρον</q>
+                                </cit>· οἱ δὲ τὸν ροῦν. οἱ δὲ πόρον <placeName
+                                    n="urn:cite:hmt:place.place93">Ξάνθου</placeName>
+                                <choice>
+                                    <abbr>κατ</abbr>
+                                    <expan>κατὰ</expan>
+                                </choice> περίφρασιν τὸν <placeName n="urn:cite:hmt:place.place93"
+                                    >Ξάνθον</placeName>· <persName n="urn:cite:hmt:pers.pers21"
+                                    >Ἀριστοφάνης</persName> γράφει <q>ῥόον</q> ⁑</p>
                         </div>
                     </div>
                     <div n="3" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p><persName n="urn:cite:hmt:pers.pers111">Ξάνθου</persName>
+                                δινήεντος:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:20.</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p> ὅτι <persName n="urn:cite:hmt:pers.pers15"><choice>
+                                        <abbr>Ζηνoδοτ</abbr>
+                                        <expan>Ζηνόδοτος</expan>
+                                    </choice></persName> γράφει <q>ἀθάνατον</q> ἵνα μὴ ὁ <persName
+                                    n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> ἀθάνατος λέγηται ἀλλ
+                                ὁ <persName n="urn:cite:hmt:pers.pers15">Ξανθος</persName> καὶ ἐν
+                                ἄλλοις δὲ εἴρηται <cit>
+                                    <ref n="urn">urn:cts:greekLit:tlg0012.tlg001:2.741</ref>
+                                    <q>υἱὸς Σπερχειοῖο, ὸν ἀθάνατος τέκετο Ζεύς</q>
+                                </cit>. καὶ καθόλου <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:1.520</ref>
+                                    <q>ἀθανάτοισι θεοῖσι</q>
+                                </cit> ⁑</p>
                         </div>
                     </div>
                 </body>
