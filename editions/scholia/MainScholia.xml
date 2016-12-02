@@ -31,7 +31,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>πόρον</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:20.1-20.2</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.1-21.2</p>
                         </div>
                         <div type="comment">
                             <p>ἤτοι τὸν ποταμὸν περιφραστικῶς, ἠ τὸ διαβατὸν αὐτοῦ μερος καθ ὸ
@@ -86,7 +86,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>πόρον: </p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:20.1</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.1</p>
                         </div>
                         <div type="comment">
                             <p>τὸν πορευτὸν αὐτοῦ τόπον <cit>
@@ -113,7 +113,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 δινήεντος:</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:20.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.</p>
                         </div>
                         <div type="comment">
                             <p> ὅτι <persName n="urn:cite:hmt:pers.pers15"><choice>
@@ -129,6 +129,73 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:1.520</ref>
                                     <q>ἀθανάτοισι θεοῖσι</q>
                                 </cit> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="4" type="scholion">
+                        <div type="lemma">
+                            <p>ἤματι τῷ:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.5</p>
+                        </div>
+                        <div type="comment">
+                            <p> τοῦτο ἄν τις σημειώσαιτο προς τὸ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:15.609</ref>
+                                    <q>τινάσσετο μαινομένοιο</q>
+                                </cit> γράφουσι γὰρ τινες <q>μαρναμένοιο</q> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="5" type="scholion">
+                        <div type="lemma">
+                            <p>ἔννεον ἔνθα καὶ ἔνθα</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.</p>
+                        </div>
+                        <div type="comment">
+                            <p> ἔνιαι τῶν κατα πόλεις <q>νήχοντ' ἔνθα καὶ ἔνθα</q>· τὸ δὲ <q>ἔνθα
+                                    καὶ ἔνθα</q> ἑκατέροις δύναται προσδίδοσθαι ⁑</p>
+                        </div>
+                    </div>
+                    <div n="6" type="scholion">
+                        <div type="lemma">
+                            <p>ακρῖδες:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.</p>
+                        </div>
+                        <div type="comment">
+                            <p> παρα τὸ <q>κρᾶν</q> ὅ ἐστιν ἐσθίειν <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0533</ref>
+                                    <q>ὃς <choice>
+                                            <sic>αἶζηῶν</sic>
+                                            <corr>αἰζηῶν</corr>
+                                        </choice> ἔκραε κηδεμόνας</q>
+                                </cit> ἢ παρα τὸ <q>ἀκρίζειν</q> ὅ ἐστι τὰ ἄκρα ἐσθίειν ⁑</p>
+                        </div>
+                    </div>
+                    <div n="6" type="scholion">
+                        <div type="lemma">
+                            <p>πλῆτο ῥοος κελάδων</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.</p>
+                        </div>
+                        <div type="comment">
+                            <p> βαρυτονητέον τὴν μετοχήν κελαδοντος γὰρ ἡ γενικῇ. καὶ ἡ αἰτιατικῇ
+                                κελάδοντα “παρ ποταμὸν κελάδοντ//κελάδοντα” (Σ 576) οὐ κελαδοῦντα·
+                                πε//περὶ δὲ τοῦ ὀξύνεσθαι τὸ επιμίξ εἴπομεν ἤδη πολλάκος ⁑</p>
+                        </div>
+                    </div>
+                    <div n="6" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.</p>
+                        </div>
+                        <div type="comment">
+                            <p>⁑</p>
                         </div>
                     </div>
                 </body>
