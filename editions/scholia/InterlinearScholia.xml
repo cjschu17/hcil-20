@@ -24,7 +24,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </fileDesc>
     </teiHeader>
     <text>
-        <group n="20">
+        <group n="21">
             <text n="msAil">
                 <body>
                     <div n="1" type="scholion">
@@ -32,7 +32,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:20.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.</p>
                         </div>
                         <div type="comment">
                             <p></p>
