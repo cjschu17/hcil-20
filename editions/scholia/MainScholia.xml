@@ -150,7 +150,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>ἔννεον ἔνθα καὶ ἔνθα</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.11</p>
                         </div>
                         <div type="comment">
                             <p> ἔνιαι τῶν κατα πόλεις <q>νήχοντ' ἔνθα καὶ ἔνθα</q>· τὸ δὲ <q>ἔνθα
@@ -162,7 +162,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>ακρῖδες:</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.12</p>
                         </div>
                         <div type="comment">
                             <p> παρα τὸ <q>κρᾶν</q> ὅ ἐστιν ἐσθίειν <cit>
@@ -174,20 +174,43 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 </cit> ἢ παρα τὸ <q>ἀκρίζειν</q> ὅ ἐστι τὰ ἄκρα ἐσθίειν ⁑</p>
                         </div>
                     </div>
-                    <div n="6" type="scholion">
+                    <div n="7" type="scholion">
                         <div type="lemma">
                             <p>πλῆτο ῥοος κελάδων</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.16</p>
                         </div>
                         <div type="comment">
                             <p> βαρυτονητέον τὴν μετοχήν κελαδοντος γὰρ ἡ γενικῇ. καὶ ἡ αἰτιατικῇ
-                                κελάδοντα “παρ ποταμὸν κελάδοντ//κελάδοντα” (Σ 576) οὐ κελαδοῦντα·
-                                πε//περὶ δὲ τοῦ ὀξύνεσθαι τὸ επιμίξ εἴπομεν ἤδη πολλάκος ⁑</p>
+                                    <q>κελάδοντα</q>
+                                <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:18.576</ref>
+                                    <q>παρ ποταμὸν <choice>
+                                            <abbr>κελάδοντ</abbr>
+                                            <expan>κελάδοντα</expan>
+                                        </choice></q>
+                                </cit> οὐ <q>κελαδοῦντα</q>· <choice>
+                                    <abbr>πε</abbr>
+                                    <expan>περὶ</expan>
+                                </choice> δὲ τοῦ ὀξύνεσθαι τὸ επιμίξ εἴπομεν ἤδη πολλάκος ⁑</p>
                         </div>
                     </div>
-                    <div n="6" type="scholion">
+                    <div n="8" type="scholion">
+                        <div type="lemma">
+                            <p>ὄρμενον ἐξαίφνης:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.14</p>
+                        </div>
+                        <div type="comment">
+                            <p>ψιλῶς τὸ <q>ὄρμενον</q> παρα γὰρ τὸ <q>ὄρω</q> κέκληται ψιλούμενον καὶ βαρυνόμενον
+                                καὶ ἤτοι ἐκ τοῦ <q>ὠρμένον</q> ἐστι παρῳχημένον σημαίνοντος καὶ ἔπαθε
+                                    <w>συστο<unclear/></w> καὶ ἀναδρομὴν τοῦ τόνου. ἠ καὶ ἐκ τοῦ
+                                <q>ορωμένον</q> συνεκόπη ⁑</p>
+                        </div>
+                    </div>
+               <!--     <div n="9" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -198,6 +221,18 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>⁑</p>
                         </div>
                     </div>
+                    <div n="10" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.</p>
+                        </div>
+                        <div type="comment">
+                            <p>⁑</p>
+                        </div>
+                    </div>
+                    -->
                 </body>
             </text>
         </group>
