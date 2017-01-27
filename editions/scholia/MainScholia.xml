@@ -204,13 +204,84 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.14</p>
                         </div>
                         <div type="comment">
-                            <p>ψιλῶς τὸ <q>ὄρμενον</q> παρα γὰρ τὸ <q>ὄρω</q> κέκληται ψιλούμενον καὶ βαρυνόμενον
-                                καὶ ἤτοι ἐκ τοῦ <q>ὠρμένον</q> ἐστι παρῳχημένον σημαίνοντος καὶ ἔπαθε
-                                    <w>συστο<unclear/></w> καὶ ἀναδρομὴν τοῦ τόνου. ἠ καὶ ἐκ τοῦ
-                                <q>ορωμένον</q> συνεκόπη ⁑</p>
+                            <p>ψιλῶς τὸ <q>ὄρμενον</q> παρα γὰρ τὸ <q>ὄρω</q> κέκληται ψιλούμενον
+                                καὶ βαρυνόμενον καὶ ἤτοι ἐκ τοῦ <q>ὠρμένον</q> ἐστι παρῳχημένον
+                                σημαίνοντος καὶ ἔπαθε <w>συστο<unclear/></w> καὶ ἀναδρομὴν τοῦ
+                                τόνου. ἠ καὶ ἐκ τοῦ <q>ορωμένον</q> συνεκόπη ⁑</p>
                         </div>
                     </div>
-               <!--     <div n="9" type="scholion">
+                    <div n="9" type="scholion">
+                        <div type="lemma">
+                            <p>αὐτὰρ ὁ διογένης:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.17</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι ἀποτίθεται μὲν τὸ <q>δόρυ</q> ῥητῶς ἀναλαμβάνει δὲ οὐ κατα τὸ
+                                ῥητὸν, ἀλλ' ὕστερον αὐτῷ φαίνεται χρώμενος· ἡ δε ἀναφορα πρὸς
+                                    <persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτον</persName>
+                                ἀγνοοῦντα· ὅτι πολλὰ δεῖ προσδέχεσθαι· κατὰ τὸ σιωπώμενον·
+                                ἐνεργούμενα ⁑</p>
+                        </div>
+                    </div>
+                    <div n="10" type="scholion">
+                        <div type="lemma">
+                            <p>κεκλιμένον μυρίκηισιν ὁ δ’ ἔσθορε:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.18</p>
+                        </div>
+                        <div type="comment">
+                            <p>γράφεται καὶ <q>ἔνθορε</q>. ἐν ενίαις δ’ αῖψ’ ἐσόρουσεν ⁑</p>
+                        </div>
+                    </div>
+                    <div n="11" type="scholion">
+                        <div type="lemma">
+                            <p>τοὺς αὐτοὶ φορέεσκον</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.31</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι στρεπτοὺς χιτῶνας τοὺς νηστοὺς. ὑποδύτας γὰρ εἶχον ὑπὸ τοὺς
+                                στατοὺς μαλάγματος ἕνεκα· <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:5.113</ref>
+                                    <q>αἷμα δ' ἀνηκόντιζε διὰ στρεπτοῖο χιτῶνος</q>
+                                </cit>⁑</p>
+                        </div>
+                    </div>
+                    <div n="12" type="scholion">
+                        <div type="lemma">
+                            <p>αὐτὰρ ὃ ὰψ·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.33</p>
+                        </div>
+                        <div type="comment">
+                            <p>πρὸς τὴν ἐναλλαγὴν τοῦ χρόνου ὅτι ἀντι τοῦ <q>δαΐξαι</q>
+                                προθυμούμενος <choice>
+                                    <abbr>κατ</abbr>
+                                    <expan>κατὰ</expan>
+                                </choice> τὸ συντελικόν⁑</p>
+                        </div>
+                    </div>
+                    <div n="13" type="scholion">
+                        <div type="lemma">
+                            <p>ἦ γε λαβὼν ἔκ πατρὸς</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.36-21.37</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι <choice>
+                                    <sic>ἀλῳήν</sic>
+                                    <corr>ἀλῳὴν</corr>
+                                </choice> τὴν δενδροφόρον γῆν νῦν λέγει ἐπιφέρει γὰρ <q>ὁ δ'
+                                    ἐρινεὸν</q>⁑</p>
+                        </div>
+                    </div>
+                    <!--     <div n="" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -221,7 +292,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>⁑</p>
                         </div>
                     </div>
-                    <div n="10" type="scholion">
+                    <div n="" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
