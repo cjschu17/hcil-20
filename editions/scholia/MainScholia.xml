@@ -435,25 +435,58 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:8.546</ref>
                                     <q>ἀντὶ, κασιγνήτου ξεῖνος</q>
-                                </cit> ἀντὶ τοῦ <q>ἶσος κασιγνήτῳ</q>⁑</p>
+                                </cit> ἀντὶ τοῦ <q>ἶσος κασιγνήτῳ</q> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="24" type="scholion">
+                        <div type="lemma">
+                            <p> Ἄλτεω ὃς Λελέγεσσι,</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.86</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι τοὺς <rs type="ethnic" n="urn:cite:hmt:pers.pers777">Λέλεγας</rs> ἐν <title><ref n="urn:cts:greekLit:tlg0012.tlg001:2.484-2.875">Καταλόγῳ</ref></title> παρήκεν καὶ προς τὴν ἐπανάληψιν τοῦ ὀνόματος ⁑</p>
                         </div>
                     </div>
                     <div n="23" type="scholion">
                         <div type="lemma">
-                            <p>πὰρ γὰρ σοὶ πρώτῳ πασάμην:</p>
+                            <p>‡ πὰρ γαρ σοὶ πρώτῳ πασάμην:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.</p>
                         </div>
                         <div type="comment">
-                            <p>τὸ λέγειν ὅτι οἱ βάρβαροι ἄλφιτα οὐκ ἤσθιον ἀλλ άρτους κριθίνους
-                                ψεῦδος· ἤσθιε γὰρ ὡς ἂν βασιλέως ὢν υἱὸς καὶ οὐδαμοῦ τοῦτο ὁ ποιητὴς
-                                ἐπεσημῄνατο· ἡ δὲ λύσις ὅτι παρ Έλλησι πρώτῳ καὶ ξένῳ τῷ <persName
-                                    n="urn:cite:hmt:pers.pers1">Ἀχιλλεῖ</persName> ἐγεγόνει
-                                φησί⁑</p>
+                            <p>⁑</p>
                         </div>
                     </div>
-
+                    <div n="23" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.</p>
+                        </div>
+                        <div type="comment">
+                            <p>⁑</p>
+                        </div>
+                    </div>
+                    <div n="23" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.</p>
+                        </div>
+                        <div type="comment">
+                            <p>⁑</p>
+                        </div>
+                    </div>
+                    
+                   
+                    
+                    
+                    
                     <!--     <div n="" type="scholion">
                         <div type="lemma">
                             <p/>
