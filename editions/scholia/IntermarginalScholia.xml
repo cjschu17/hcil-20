@@ -103,7 +103,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     <abbr>συνδ</abbr>
                                     <expan>σύνδεσμον</expan>
                                 </choice>
-                                <persName><choice>
+                                <persName n="urn:cite:hmt:pers.pers16"><choice>
                                         <abbr>Ἀριστχος</abbr>
                                         <expan>Ἀρίσταρχος</expan>
                                     </choice></persName> ⁑</p>
@@ -117,7 +117,73 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.73</p>
                         </div>
                         <div type="comment">
-                            <p><choice><abbr>γρ</abbr><expan>γράφεται</expan></choice> καί μιν <choice><abbr>λισσόμε</abbr><expan>λισσόμενος</expan></choice></p>
+                            <p><choice>
+                                    <abbr>γρ</abbr>
+                                    <expan>γράφεται</expan>
+                                </choice>
+                                <q>καί μιν <choice>
+                                        <abbr>λισσόμε</abbr>
+                                        <expan>λισσόμενος</expan>
+                                    </choice></q></p>
+                        </div>
+                    </div>
+                    <div n="7" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.78</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐν ἄλλω <q>καί με περάσας</q></p>
+                        </div>
+                    </div>
+                    <div n="8" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.80</p>
+                        </div>
+                        <div type="comment">
+                            <p>λυτρωθείην ἀν τριπλάσια δίδω σοι</p>
+                        </div>
+                    </div>
+                    <div n="9" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.84</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Ἀρισταρχ</abbr>
+                                        <expan>Ἀρίσταρχος</expan>
+                                    </choice></persName> Ϊακῶς <q>δῶκε</q> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="10" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.88</p>
+                        </div>
+                        <div type="comment">
+                            <p>※ ἐν <title>τῇ Μασσαλιωτικῇ</title>
+                                <q>πολλῶν τὲ καὶ ἄλλων</q></p>
+                        </div>
+                    </div>
+                    <div n="11" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.92</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐν αλλῳ <q>κακὸν έσσεαι</q> ⁑</p>
                         </div>
                     </div>
                     <!--<div n="1" type="scholion">
