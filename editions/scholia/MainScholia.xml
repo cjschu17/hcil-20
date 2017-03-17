@@ -468,7 +468,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 ἐγεγόνει φησί</p>
                         </div>
                     </div>
-                    <!-- the below scholion has been edited. it jsut needs to be marked up -->
+                    
                     <div n="25" type="scholion">
                         <div type="lemma">
                             <p>μή με κτείν’.</p>
@@ -477,26 +477,56 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.95</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι Ζηνόδοτος γράφει
-                                „ἐπὶ} οὐκὶ ὁ γαστριος“ παρ’ ὅσον ἐν ἄλλοις ἔφη „ἰῆς ἐκ
-                                νηδύος“ (Ω 496)· ἴα δέ  ἐστιν ἡ μία καὶ οὐ τίθησιν
-                                Ὅμηρος τὸ μία ἐπι τοῦ ὁμοῦ οὐδὲ κατα σύνθετον
-                                ἐκφέρει. „τῆς μὲν ϊῆς στιχὸς <choice><sic>ήρχεν</sic><corr>ῆρχεν</corr></choice> (Π 173). ⁑</p>
+                            <p>ὅτι <persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName> γράφει
+                                <q>ἐπὶ οὐκὶ ὁ γαστριος</q> παρ’ ὅσον ἐν ἄλλοις ἔφη <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:24.496</ref><q>ῆς ἐκ
+                                νηδύος</q></cit>· ἴα δέ  ἐστιν ἡ μία καὶ οὐ τίθησιν
+                                <persName n="urn:cite:hmt:pers.pers17">Ὅμηρος</persName> τὸ μία ἐπι τοῦ ὁμοῦ οὐδὲ κατα σύνθετον
+                                ἐκφέρει. <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:16.173</ref><q>τῆς μὲν ϊῆς στιχὸς <choice><sic>ήρχεν</sic><corr>ῆρχεν</corr></choice></q></cit>⁑</p>
                         </div>
                     </div>
-                    <div n="23" type="scholion">
+                    <div n="26" type="scholion">
+                        <div type="lemma">
+                            <p>‡ τόφρα τί μοι πεφιδέσθαι·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.101</p>
+                        </div>
+                        <div type="comment">
+                            <p> παροξυτονητέον ὁμοίως τῷ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:1.19</ref><q>εὖ
+                                δ' οίκαδ' ϊκέσθαι</q></cit>· ἔστι γὰρ μέσος δεύτερος
+                                ἀόριστος· ἀλλα <choice><sic><choice><abbr>φίλ</abbr><expan>φίλος</expan></choice></sic><corr>φίλος</corr></choice> θάνε, τὸ ὑγιὲς συνάπτειν. τῆς
+                                ἀντωνυμίας μέχρι. ἵν' ᾗ ἐν σχήματι· ἀλλ ὦ φίλε καὶ σὺ
+                                ἀπόθανον εἰρωνίας νοουμένης, εἶτα ἀμφ' ετέρας ἀρχῆς
+                                τίη ὀλοφύρεαι; </p>
+                        </div>
+                    </div>
+                    <div n="27" type="scholion">
+                        <div type="lemma">
+                            <p>ἀλλ επί τοι καὶ ἐμοὶ.</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.110</p>
+                        </div>
+                        <div type="comment">
+                            <p> <choice><abbr>Ἀρισταρχ</abbr><expan>Ἀρισταρχός</expan></choice> φασὶ τὴν επι
+                                ἀναστρέψαι ἵνα σημαίνῃ τὸ ἔπεστιν ὁμοίως τῷ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:11.367</ref><q>σοὶ δ'
+                                ἔπι μὲν μορφῂ ἐπέων</q></cit>. οὶ δ' ἐφύλαξαν <choice><sic>τόν</sic><corr>τὸν</corr></choice>
+                                τόνον τῇ ἐμοὶ ἀντωνυμίᾳ συντάσσοντες αὐτὴν ὥστε
+                                τὸ ἑξῆς εἶναι <q>ἀλλα καὶ ἐπ ἐμοί</q>. καὶ οὕτως ἔχει τὰ τῆς
+                                ἀναγνώσεως·</p>
+                        </div>
+                    </div>
+                    <div n="28" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.?????</p>
                         </div>
                         <div type="comment">
-                            <p>⁑</p>
+                            <p></p>
                         </div>
                     </div>
-
-
 
 
 
