@@ -25,10 +25,18 @@ Liam Prendergast and Steven Paganelli
 
 ## Comparing across all three manuscripts
 
+![diagram](https://raw.githubusercontent.com/cjschu17/hcil-21/master/Diagram3.0.png)
+
+---
+
+## Comparing across all three manuscripts
+
 - 156 paragraphs appear in first 8 books in the three manscripts.
 - Venetus A has 126 unique Paragraphoi
 - Venetus B has 38 unique Edents
 - Upsilion 1.1 has 94 unique Edents   
+
+---
 
 ## Comparing Edents in Venetus B and Upsilon 1.1 
 
@@ -38,9 +46,4 @@ Liam Prendergast and Steven Paganelli
 - 85% of Edents in Venetus B appear in Upsilon 1.1
 
 ---
-
-![diagram](https://raw.githubusercontent.com/cjschu17/hcil-21/master/Diagram3.0.png)
-
----
-
-##  
+  
