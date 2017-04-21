@@ -47,3 +47,7 @@ Liam Prendergast and Steven Paganelli
 
 ---
   
+## Comparing Paragraphoi to Edents 
+
+-
+
