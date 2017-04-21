@@ -33,9 +33,9 @@ Liam Prendergast and Steven Paganelli
 ## Comparing Edents in Venetus B and Upsilon 1.1 
 
 - In the first Eight books of Venetus B and Upsilon 1.1 they share 206 Edents
-- Venetus B has 97 less Edents then Upsilon 
-- about 70% of Edent in Upsilon 1.1 appear in Venetus B
-- 
+- Venetus B has 97 less Edents then Upsilon 1.1
+- 69% of Edents in Upsilon 1.1 appear in Venetus B
+- 85% of Edents in Venetus B appear in Upsilon 1.1
 
 ---
 
