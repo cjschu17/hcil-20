@@ -12,5 +12,4 @@ James Garry, Zach Sowerby, Joshua Glenn
 
 
 ## Positioning of Diacritics
-
-go [here](http://www.homermultitext.org/hmt-digital/facs?urn=urn:cite:hmt:msA.270r)
+![autar](https://raw.githubusercontent.com/cjschu17/hcil-21/master/VA270RN-0440.jpg)
