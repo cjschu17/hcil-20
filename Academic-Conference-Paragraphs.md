@@ -36,4 +36,4 @@ Liam Prendergast and Steven Paganelli
 - Venetus B has 97 less Edents then Upsilon 
 - about 40% of Edent in Upsilon 1.1 appear in Venetus B
 
-![diagram]()
+![diagram](https://raw.githubusercontent.com/cjschu17/hcil-21/master/Diagram.png)
