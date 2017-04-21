@@ -34,5 +34,6 @@ Liam Prendergast and Steven Paganelli
 
 - In the first Eight books of Venetus B and Upsilon 1.1 they share 206 Edents
 - Venetus B has 97 less Edents then Upsilon 
-- They Share about % of Edents 
-- 
+- about 40% of Edent in Upsilon 1.1 appear in Venetus B
+
+![diagram]()
