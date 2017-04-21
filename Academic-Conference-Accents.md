@@ -1,4 +1,4 @@
-# From musical pitch to grammatical rule: accent in Homeric manuscripts
+## From musical pitch to grammatical rule: accent in Homeric manuscripts
 
 James Garry, Zach Sowerby, Joshua Glenn
 
@@ -41,14 +41,15 @@ James Garry, Zach Sowerby, Joshua Glenn
 
 ---
 
-## Floating Graves
--Throughout the Venetus A, there are approximately 250 occurences of grave accents that appear in the space where an elided letter would be.
--It could possibly an  attempt on the part of the scholiast to make word divisions clear.
--It could also be the scholiasts attempt to satisfy grammar rules.
+## "Floating Graves"
+
+- Throughout the Venetus A, there are approximately 250 occurences of grave accents that appear in the space where an elided letter would be.
+- It could possibly an  attempt on the part of the scholiast to make word divisions clear.
+- It could also be the scholiasts attempt to satisfy grammar rules.
 
 ---
 
-![chersi](https://github.com/cjschu17/hcil-21/blob/master/chersi.jpg)
+![chersi](https://raw.githubusercontent.com/cjschu17/hcil-21/master/chersi.jpg)
 
 ---
 
@@ -57,7 +58,7 @@ James Garry, Zach Sowerby, Joshua Glenn
 ---
 
 ## Enclitics
--The Venetus A scribe treats enclitic accent rules differently. 
+- The Venetus A scribe treats enclitic accent rules differently.
 
 ---
 
@@ -65,12 +66,12 @@ James Garry, Zach Sowerby, Joshua Glenn
 
 ---
 
-![dorpat](https://github.com/cjschu17/hcil-21/blob/master/dorpat.jpg)
+![dorpat](https://raw.githubusercontent.com/cjschu17/hcil-21/master/dorpat.jpg)
 
 ---
 
 ## Missing Accents and Breathings
--There are often apparent lapses in accentuation and breathing marks. 
+- There are often apparent lapses in accentuation and breathing marks.
 
 ---
 
@@ -81,9 +82,3 @@ James Garry, Zach Sowerby, Joshua Glenn
 ![hupo](https://raw.githubusercontent.com/cjschu17/hcil-21/master/hupoo.jpg)
 
 ---
-
-
-
-
- 
-
