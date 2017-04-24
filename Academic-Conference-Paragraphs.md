@@ -24,8 +24,7 @@ Liam Prendergast '19 and Steven Paganelli '19
 
 ---
 
-![Compare](https://raw.githubusercontent.com/cjschu17/hcil-21/master/combine_images%202.jpg)
-
+![Compare](https://raw.githubusercontent.com/cjschu17/hcil-21/master/combine_images%203.0.jpg)
 ## *Paragraphoi* in the Venetus A
 
 - etymology: Παρα + γράφω meaing "write alongside"
