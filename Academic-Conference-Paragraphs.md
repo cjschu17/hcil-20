@@ -34,10 +34,14 @@ Liam Prendergast and Steven Paganelli
 
 ---
 
-What did you observe and record?
+## The Research
+
+- looked at Venetus A 
+- Made a note of each occurrence of a Paragrapos
+- recorded the book number and line number
+- Edents in Upsilon 1.1 and Venetus B were recorded in the summer by Corey Scannell and Michael Kelley 
 
 ---
-
 
 ## Comparing across all three manuscripts
 
@@ -63,6 +67,7 @@ What did you observe and record?
 
 ---
 
-## Comparing Paragraphoi to Edents
+## What does this mean? 
+ 
 
 ---
