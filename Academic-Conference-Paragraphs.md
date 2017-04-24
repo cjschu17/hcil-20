@@ -47,7 +47,7 @@ What did you observe and record?
 - 156 paragraphs appear in first 8 books in the three manscripts.
 - Venetus A has 126 unique Paragraphoi
 - Venetus B has 38 unique Edents
-- Upsilion 1.1 has 94 unique Edents
+- Upsilon 1.1 has 94 unique Edents
 
 ---
 
