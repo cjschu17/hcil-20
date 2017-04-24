@@ -52,7 +52,15 @@ Liam Prendergast and Steven Paganelli
 ## Comparing across all three manuscripts
 
 ![diagram](https://raw.githubusercontent.com/cjschu17/hcil-21/master/Diagram%204.0.png)
+
 ---
+
+## Processing the data
+
+- limited the range to books 2 through 7
+- included line that are off by 1 or 2
+
+
 
 ## Comparing across all three manuscripts
 
