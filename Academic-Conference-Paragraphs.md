@@ -12,6 +12,8 @@ Liam Prendergast and Steven Paganelli
 
 ---
 
+
+
 ## *Paragraphoi* in the Venetus A
 
 - a *Paragraphos* is a horizontal mark above the first word in a line.
