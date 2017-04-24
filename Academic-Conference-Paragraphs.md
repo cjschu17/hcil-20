@@ -60,7 +60,11 @@ Liam Prendergast and Steven Paganelli
 - limited the range to books 2 through 7
 - included line that are off by 1 or 2
 
+---
 
+![diagram2](https://raw.githubusercontent.com/cjschu17/hcil-21/master/Diagram%206.0.png)
+
+---
 
 ## Comparing across all three manuscripts
 
