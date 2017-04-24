@@ -16,7 +16,7 @@ Liam Prendergast and Steven Paganelli
 
 ## *Paragraphoi* in the Venetus A
 
-- etymology: Παρα + γράφος meaing "write alongside"
+- etymology: Παρα + γράφως meaing "write alongside"
 - a *Paragraphos* is a horizontal mark above the first word in a line.
 - Only Appear in the Venetus A.
 - Used to break up section of the text.
