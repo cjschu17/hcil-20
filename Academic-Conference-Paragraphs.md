@@ -68,23 +68,19 @@ Liam Prendergast and Steven Paganelli
 
 ## Comparing across all three manuscripts
 
-- 156 paragraphs appear in first 8 books in the three manscripts.
-- Venetus A has 126 unique Paragraphoi
-- Venetus B has 38 unique Edents
-- Upsilon 1.1 has 94 unique Edents
+- 120 paragraphs appear in books 2 through 7 in the three manscripts.
+- Venetus A has 66 unique Paragraphoi
+- Venetus B has 21 unique Edents
+- Upsilon 1.1 has 68 unique Edents
 
 ---
 
 ## Comparing Edents in Venetus B and Upsilon 1.1
 
-- In the first Eight books of Venetus B and Upsilon 1.1 they share 206 Edents
-- Venetus B has 97 less Edents then Upsilon 1.1
-- 69% of Edents in Upsilon 1.1 appear in Venetus B
-- 85% of Edents in Venetus B appear in Upsilon 1.1
+- In books 2 through 7 of Venetus B and Upsilon 1.1 they share 282 Edents
+- -Which represents 89% of Venetus B and 67% of Upsilon 1.1
+- Venetus B has 101 less Edents then Upsilon 1.1
 
 ---
 
-## What does this mean? 
- 
 
----
