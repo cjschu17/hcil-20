@@ -38,8 +38,7 @@ Liam Prendergast and Steven Paganelli
 
 - No one has looked at these; what can they tell us?
 - where do they appear?
-- connection between presentation of the text and content
-- -The scholiast is making choices.
+- connection between presentation of the text and content -The scholiast is making choices.
 
 ## The Research
 
