@@ -45,8 +45,7 @@ Liam Prendergast and Steven Paganelli
 
 ## Comparing across all three manuscripts
 
-![diagram](https://raw.githubusercontent.com/cjschu17/hcil-21/master/Diagram3.0.png)
-
+![diagram](https://raw.githubusercontent.com/cjschu17/hcil-21/master/Diagram%204.0.png)
 ---
 
 ## Comparing across all three manuscripts
