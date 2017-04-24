@@ -12,7 +12,7 @@ Liam Prendergast and Steven Paganelli
 
 ---
 
-
+![Compare](https://raw.githubusercontent.com/cjschu17/hcil-21/master/combine_images%202.jpg)
 
 ## *Paragraphoi* in the Venetus A
 
