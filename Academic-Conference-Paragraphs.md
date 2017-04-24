@@ -6,7 +6,9 @@ Liam Prendergast and Steven Paganelli
 
 ## Three manuscripts
 
-....
+- Venetus A 
+- Venetus B 
+- Upsilon 1.1
 
 ---
 
