@@ -10,19 +10,19 @@ James Garry, Zach Sowerby, Joshua Glenn
 
 ---
 
-![autar](https://raw.githubusercontent.com/cjschu17/hcil-21/master/VA270RN-0440.jpg)
+![αὐτὰρ](https://raw.githubusercontent.com/cjschu17/hcil-21/master/VA270RN-0440.jpg)
 
 ---
 
-![eruthaineto](https://raw.githubusercontent.com/cjschu17/hcil-21/master/ambiguousaccent.jpg)
+![ἐρυθαίνετο](https://raw.githubusercontent.com/cjschu17/hcil-21/master/ambiguousaccent.jpg)
 
 ---
 
-![tous](https://raw.githubusercontent.com/cjschu17/hcil-21/master/ambiguous2.jpg)
+![τοὺς](https://raw.githubusercontent.com/cjschu17/hcil-21/master/ambiguous2.jpg)
 
 ---
 
-![haimati](https://raw.githubusercontent.com/cjschu17/hcil-21/master/haimati.jpg)
+![αἵματι](https://raw.githubusercontent.com/cjschu17/hcil-21/master/haimati.jpg)
 
 ---
 
@@ -33,11 +33,11 @@ James Garry, Zach Sowerby, Joshua Glenn
 
 ---
 
-![iston](https://raw.githubusercontent.com/cjschu17/hcil-21/master/VA012VN-0514.jpg)
+![ἱστὸν](https://raw.githubusercontent.com/cjschu17/hcil-21/master/VA012VN-0514.jpg)
 
 ---
 
-![Ichthues](https://raw.githubusercontent.com/cjschu17/hcil-21/master/icthues.jpg)
+![ἰχθύες](https://raw.githubusercontent.com/cjschu17/hcil-21/master/icthues.jpg)
 
 ---
 
@@ -49,11 +49,11 @@ James Garry, Zach Sowerby, Joshua Glenn
 
 ---
 
-![chersi](https://raw.githubusercontent.com/cjschu17/hcil-21/master/chersi.jpg)
+![χερσὶ](https://raw.githubusercontent.com/cjschu17/hcil-21/master/chersi.jpg)
 
 ---
 
-![d/](https://raw.githubusercontent.com/cjschu17/hcil-21/master/d'.jpg)
+![δ'](https://raw.githubusercontent.com/cjschu17/hcil-21/master/d'.jpg)
 
 ---
 
@@ -62,11 +62,11 @@ James Garry, Zach Sowerby, Joshua Glenn
 
 ---
 
-![hippwnte](https://raw.githubusercontent.com/cjschu17/hcil-21/master/hippwnte.jpg)
+![ἵππων τε](https://raw.githubusercontent.com/cjschu17/hcil-21/master/hippwnte.jpg)
 
 ---
 
-![dorpat](https://raw.githubusercontent.com/cjschu17/hcil-21/master/dorpat.jpg)
+![σκῆπτρόν τ'](https://raw.githubusercontent.com/cjschu17/hcil-21/master/skeptronte.jpg)
 
 ---
 
@@ -75,10 +75,10 @@ James Garry, Zach Sowerby, Joshua Glenn
 
 ---
 
-![hodesthore](https://raw.githubusercontent.com/cjschu17/hcil-21/master/hodesthore.jpg)
+![ἔσθορε](https://raw.githubusercontent.com/cjschu17/hcil-21/master/hodesthore.jpg)
 
 ---
 
-![hupo](https://raw.githubusercontent.com/cjschu17/hcil-21/master/hupoo.jpg)
+![ὑπ](https://raw.githubusercontent.com/cjschu17/hcil-21/master/hupoo.jpg)
 
 ---
