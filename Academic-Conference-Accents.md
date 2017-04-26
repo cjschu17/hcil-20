@@ -1,10 +1,11 @@
 ## From musical pitch to grammatical rule: accent in Homeric manuscripts
 
-James Garry, Zachary Sowerby, Joshua Glenn
+James Garry '20, Zachary Sowerby '19, Joshua Glenn '20
 
 ---
 
 ## Positioning of Diacritics
+
 - The accents tend to appear to the right of center over a character.
 - Our "standard" system of accentuation places diacritics on the second letter of a dipthong. The Venetus A shows no such consistency.
 
@@ -27,6 +28,7 @@ James Garry, Zachary Sowerby, Joshua Glenn
 ---
 
 ## Diereses
+
 - Diereses typically fall over the second letter of a dipthong and signify that the dipthong should be pronounced as two syallables. The Venetus A makes use of the dieresis to this end.
 - However, in the Venetus A, a dieresis (or a mark shaped like a dieresis) can also fall over word-initial iotas.
 - Other diacritics on iotas with diereses lack consistency. For example, a fourth of the occurences of unaccented iotas with diereses lacks a breathing mark.
@@ -71,6 +73,7 @@ James Garry, Zachary Sowerby, Joshua Glenn
 ---
 
 ## Missing Accents and Breathings
+
 - There are often apparent lapses in accentuation and breathing marks.
 
 ---
