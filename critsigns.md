@@ -1,6 +1,6 @@
 
 
-##Critical Signs on Scholia in the Venetus A Manuscript##
+#Critical Signs on Scholia in the Venetus A Manuscript#
 
 Claude Hanley '18, Michael Kelley '18, Corey Scannell '18
 
