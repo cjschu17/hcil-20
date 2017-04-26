@@ -85,3 +85,15 @@ James Garry '20, Zachary Sowerby '19, Joshua Glenn '20
 ![ὑπ](https://raw.githubusercontent.com/cjschu17/hcil-21/master/hupoo.jpg)
 
 ---
+
+## Why is this useful?
+
+- We now have an understanding of how Byzantine scribes usse diacritics, which is useful in itself.
+- This may serve as an easy guide for a Greek student who would want to become involved in the Homer Multitext Project.
+- This may lay the groundwork for future research.
+
+---
+
+## Questions?
+
+---
