@@ -1,6 +1,6 @@
 ## From musical pitch to grammatical rule: accent in Homeric manuscripts
 
-James Garry, Zach Sowerby, Joshua Glenn
+James Garry, Zachary Sowerby, Joshua Glenn
 
 ---
 
