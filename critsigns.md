@@ -69,7 +69,7 @@ Out of 134 critical scholia:
 | Pairing                                                  | Number |
 |:---------------------------------------------------------|:-------|
 | Sign on Scholion matches with sign on the line           | 87     |
-| Sign on the line, but no sign on the Scholion            | 16     |
+| Sign on the Scholion, but no sign on the line            | 16     |
 | Sign on the Scholion different from the sign on the line | 27     |
 
 
