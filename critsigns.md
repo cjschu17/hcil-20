@@ -78,7 +78,7 @@ Out of 134 critical scholia:
 ## Class 1: signs on scholion and line  match ##
 
 - Most signs are diples
-- No asterisks
+- Few asterisks
 - Nothing unusual about the type of comments in Class 1
 - Duplication to aid navigation on page?
 
