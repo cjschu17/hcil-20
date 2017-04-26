@@ -6,7 +6,7 @@ James Garry, Zach Sowerby, Joshua Glenn
 
 ## Positioning of Diacritics
 - The accents tend to appear to the right of center over a character.
-- Our "standard" system of accentuation assumes that breathing marks and accents appear on the second letter of a dipthong. The Venetus A shows no such consistency.
+- Our "standard" system of accentuation places diacritics on the second letter of a dipthong. The Venetus A shows no such consistency.
 
 ---
 
@@ -27,9 +27,9 @@ James Garry, Zach Sowerby, Joshua Glenn
 ---
 
 ## Diereses
-- Diereses typically fall over one letter of a dipthong and signify that the dipthong should be pronounced as two syallables.
-- In the Venetus A, diereses (or a similarly shaped mark) can fall over initial iotas.
-- Other diacritics on iotas with diereses lack consistency.There are 250 instances of an initial iotas with diereses that lack a breathing mark. A fourth of the occurences of unaccented iotas with diereses lack a breathing mark.
+- Diereses typically fall over the second letter of a dipthong and signify that the dipthong should be pronounced as two syallables. The Venetus A makes use of the dieresis to this end.
+- However, in the Venetus A, a dieresis (or a mark shaped like a dieresis) can also fall over word-initial iotas.
+- Other diacritics on iotas with diereses lack consistency. For example, a fourth of the occurences of unaccented iotas with diereses lacks a breathing mark.
 
 ---
 
@@ -43,9 +43,9 @@ James Garry, Zach Sowerby, Joshua Glenn
 
 ## "Floating Graves"
 
-- Throughout the Venetus A, there are approximately 250 occurences of grave accents that appear in the space where an elided letter would be.
-- It could possibly an  attempt on the part of the scholiast to make word divisions clear.
-- It could also be the scholiasts attempt to satisfy grammar rules.
+- Throughout the Venetus A, there are approximately 230 occurences of grave accents that appear in the space where an elided letter would be.
+- It could possibly be an attempt on the part of the scholiast to make word divisions clear.
+- It could also be the scholiast's attempt to satisfy contradictory grammar rules.
 
 ---
 
