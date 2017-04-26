@@ -1,10 +1,10 @@
-##Critical Signs on Scholia in the Venetus A Manuscript##
+## Critical Signs on Scholia in the Venetus A Manuscript ##
 
 Claude Hanley '18, Michael Kelley '18, Corey Scannell '18
 
 ---
 
-##Background: The Venetus A##
+## Background: The Venetus A ##
 
 - 10th Century
 - Oldest complete manuscript of the *Iliad*
@@ -13,7 +13,7 @@ Claude Hanley '18, Michael Kelley '18, Corey Scannell '18
 
 ---
 
-##Critical Signs##
+### Critical Signs ###
 
 >"[T]he critical signs link the marginal notes or scholia with the specific lines of text to which they refer."
 
@@ -25,18 +25,26 @@ Claude Hanley '18, Michael Kelley '18, Corey Scannell '18
 ---
 
 
-### Types of sign
+## Types of sign ##
 
 - *diple*
 ![image of *diple*](https://raw.githubusercontent.com/cjschu17/hcil-21/master/diple.jpg)
+
+---
+
 - asterisk
+![image of asterisk](https://raw.githubusercontent.com/cjschu17/hcil-21/master/asterisk.jpg)
+
+---
+
 - *obelos*
-- [Insert Table Here]
+![image of *obelos*](https://raw.githubusercontent.com/cjschu17/hcil-21/master/obelos.jpg)
+
 
 ---
 
 
-## Overview
+## Overview ##
 
 - ca. 15700 lines of *Iliad*
 - ca. 2900 marked with critical signs
@@ -45,16 +53,15 @@ Claude Hanley '18, Michael Kelley '18, Corey Scannell '18
 
 ---
 
-## Critical Signs on Scholia##
+## Critical Signs on Scholia ##
 
 Dindorf observed 134 critical signs (?) on scholia
 
-INSERT ILLUSTRATION
-
+![image of diple next to scholion](https://raw.githubusercontent.com/cjschu17/hcil-21/master/diple%20next%20to%20scholion.jpg)
 
 ---
 
-## Pairings of signs
+## Pairings of signs ##
 
 Out of 134 critical scholia:
 
@@ -68,7 +75,7 @@ Out of 134 critical scholia:
 
 ---
 
-##Class 1: signs on scholion and line  match##
+## Class 1: signs on scholion and line  match ##
 
 - Most signs are diples
 - No asterisks
@@ -77,7 +84,7 @@ Out of 134 critical scholia:
 
 ---
 
-##Class 2:  Mark on scholion, none on line
+## Class 2:  Mark on scholion, none on line ##
 
 - Infrequent
 - Provisional Hypothesis: Signs on the Iliad line were lost over the course of the transmission
@@ -93,17 +100,16 @@ Out of 134 critical scholia:
 
 ---
 
-## Secondary function of the asterisk
+## Secondary function of the asterisk ##
 
 - Customary placement of scholia (Churik's Law)
 - A navigational mechanism for out-of-place scholia
-
-ADD ILLUSTRATION
+![image of asterisk next to scholion](https://raw.githubusercontent.com/cjschu17/hcil-21/master/asterisk%20with%20scholion.jpg)
 
 ---
 
 
-## Conclusions
+## Conclusions ##
 
 
 - need to check Dindorf against photography
