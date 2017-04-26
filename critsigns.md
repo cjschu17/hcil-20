@@ -91,7 +91,7 @@ Out of 134 critical scholia:
 
 ---
 
-##Class 3: Sign on the Scholion different from the sign on the line##
+## Class 3: Sign on the Scholion different from the sign on the line ##
 
 - Predominantly occurs with obeloi and asteriskoi
 - 2-3 confuse dotted diple and diple
@@ -114,7 +114,7 @@ Out of 134 critical scholia:
 
 - need to check Dindorf against photography
 - Class 1: are there regularly navigational explanations for repeating signs?
-- Class 2: suggests transmission is "lossy"
+- Class 2: signs lost in transmission?
 - Class 3: did signs drop from *Iliad* in debated passages?
 
 
