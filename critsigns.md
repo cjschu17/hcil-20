@@ -4,7 +4,7 @@
 
 Claude Hanley '18, Michael Kelley '18, Corey Scannell '18
 
-----
+---
 
 ##Background: The Venetus A##
 
@@ -30,8 +30,7 @@ Claude Hanley '18, Michael Kelley '18, Corey Scannell '18
 ### Types of sign
 
 - *diple*
-! [image of *diple*]
-(https://raw.githubusercontent.com/cjschu17/hcil-21/master/diple.jpg)
+![image of *diple*](https://raw.githubusercontent.com/cjschu17/hcil-21/master/diple.jpg)
 - asterisk
 - *obelos*
 - [Insert Table Here]
