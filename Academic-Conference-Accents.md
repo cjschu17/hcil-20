@@ -88,7 +88,7 @@ James Garry '20, Zachary Sowerby '19, Joshua Glenn '20
 
 ## Why is this useful?
 
-- We now have an understanding of how Byzantine scribes usse diacritics, which is useful in itself.
+- We now have an understanding of how Byzantine scribes use diacritics, which is useful in itself.
 - This may serve as an easy guide for a Greek student who would want to become involved in the Homer Multitext Project.
 - This may lay the groundwork for future research.
 
